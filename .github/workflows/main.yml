@@ -3,7 +3,7 @@ name: Tieba Auto Sign Up
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 17 * * *'
   # push:
   #   branches:
   #     - main
